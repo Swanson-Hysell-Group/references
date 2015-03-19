@@ -17,3 +17,5 @@ If changes are made to the .bib file in this master repository (it should be cha
 ```
 git submodule update --remote --merge
 ```
+
+Hat tip to Andrius Velykis (https://github.com/andriusvelykis) for his blog post on this subject: http://andrius.velykis.lt/2012/06/master-bibtex-file-git-submodules/
