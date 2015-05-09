@@ -1,0 +1,2290 @@
+﻿TY  - JOUR
+AU  - Biren, Marc B.
+AU  - Spray, John G.
+M1  - 3
+PY  - 2011
+SP  - 310-322
+ST  - Shock veins in the central uplift of the Manicouagan impact structure: Context and genesis
+T2  - Earth and Planetary Science Letters
+TI  - Shock veins in the central uplift of the Manicouagan impact structure: Context and genesis
+VL  - 303
+ID  - 16
+ER  - 
+
+
+TY  - JOUR
+AU  - Bischoff, Lutz
+AU  - Oskierski, Wolfgang
+PY  - 1987
+SP  - 5-29
+ST  - Fractures, pseudotachylite veins and breccia dikes in the crater floor of the Rochechouart impact structure, SW-France, as indicators of crater forming processes
+T2  - Research in terrestrial impact structures
+TI  - Fractures, pseudotachylite veins and breccia dikes in the crater floor of the Rochechouart impact structure, SW-France, as indicators of crater forming processes
+ID  - 37
+ER  - 
+
+
+TY  - JOUR
+AU  - Bjørnerud, M. G.
+M1  - 3
+PY  - 1998
+SP  - 259-269
+ST  - Superimposed deformation in seconds: breccias from the impact structure at Kentland, Indiana (USA)
+T2  - Tectonophysics
+TI  - Superimposed deformation in seconds: breccias from the impact structure at Kentland, Indiana (USA)
+VL  - 290
+ID  - 21
+ER  - 
+
+
+TY  - JOUR
+AU  - Chanou, A.
+AU  - Osinski, G. R.
+AU  - Grieve, R. A. F.
+M1  - 4
+PY  - 2014
+SP  - 621-635
+ST  - A methodology for the semi‐automatic digital image analysis of fragmental impactites
+T2  - Meteoritics & Planetary Science
+TI  - A methodology for the semi‐automatic digital image analysis of fragmental impactites
+VL  - 49
+ID  - 1
+ER  - 
+
+
+TY  - JOUR
+AU  - Collins, Gareth S.
+AU  - Melosh, H. Jay
+AU  - Ivanov, Boris A.
+M1  - 2
+PY  - 2004
+SP  - 217-231
+ST  - Modeling damage and deformation in impact simulations
+T2  - Meteoritics & Planetary Science
+TI  - Modeling damage and deformation in impact simulations
+VL  - 39
+ID  - 60
+ER  - 
+
+
+TY  - JOUR
+AU  - Cortès, Angel L.
+AU  - Díaz‐Martínez, Enrique
+AU  - Sanz‐Rubio, Enrique
+AU  - Martínez‐Frías, Jesús
+AU  - Fernández, Cristina
+M1  - 6
+PY  - 2002
+SP  - 875-894
+ST  - Cosmic impact versus terrestrial origin of the Azuara structure (Spain): A review
+T2  - Meteoritics & Planetary Science
+TI  - Cosmic impact versus terrestrial origin of the Azuara structure (Spain): A review
+VL  - 37
+ID  - 25
+ER  - 
+
+
+TY  - JOUR
+AU  - Crawford, David A
+AU  - Schultz, Peter H
+DA  - 11/03/print
+M1  - 6194
+M3  - 10.1038/336050a0
+PY  - 1988
+SP  - 50-52
+ST  - Laboratory observations of impact–generated magnetic fields
+T2  - Nature
+TI  - Laboratory observations of impact–generated magnetic fields
+VL  - 336
+ID  - 102
+ER  - 
+
+
+TY  - JOUR
+AU  - Crawford, David A.
+AU  - Schultz, Peter H.
+DA  - 11/03/print
+M1  - 6194
+M3  - 10.1038/336050a0
+N1  - 10.1038/336050a0
+PY  - 1988
+SP  - 50-52
+ST  - Laboratory observations of impact-generated magnetic fields
+T2  - Nature
+TI  - Laboratory observations of impact-generated magnetic fields
+UR  - http://dx.doi.org/10.1038/336050a0
+VL  - 336
+ID  - 133
+ER  - 
+
+
+TY  - JOUR
+AB  - Palaeomagnetic studies of Palaeoproterozoic to Cretaceous rocks propose a suite of large and relatively rapid (tens of degrees over 10 to 100 million years) excursions of the rotation pole relative to the surface geography, or true polar wander (TPW). These excursions may be linked in an oscillatory, approximately coaxial succession about the centre of the contemporaneous supercontinent. Within the framework of a standard rotational theory, in which a delayed viscous adjustment of the rotational bulge acts to stabilize the rotation axis, geodynamic models for oscillatory TPW generally appeal to consecutive, opposite loading phases of comparable magnitude. Here we extend a nonlinear rotational stability theory to incorporate the stabilizing effect of TPW-induced elastic stresses in the lithosphere. We demonstrate that convectively driven inertia perturbations acting on a nearly prolate, non-hydrostatic Earth with an effective elastic lithospheric thickness of about 10kilometres yield oscillatory TPW paths consistent with palaeomagnetic inferences. This estimate of elastic thickness can be reduced, even to zero, if the rotation axis is stabilized by long-term excess ellipticity in the plane of the TPW. We speculate that these sources of stabilization, acting on TPW driven by a time-varying mantle flow field, provide a mechanism for linking the distinct, oscillatory TPW events of the past few billion years.
+AD  - Department of Earth and Planetary Sciences, Harvard University, 20 Oxford Street, Cambridge, Massachusetts 02138, USA
+AN  - 1431781800; 18476898
+AU  - Creveling, J. R.
+AU  - Mitrovica, J. X.
+AU  - Chan, N. H.
+AU  - Latychev, K.
+AU  - Matsuyama, I.
+DA  - 2012 Nov 08
+2013-12-03
+DB  - GeoRef
+DO  - http://dx.doi.org/10.1038/nature11571
+KW  - Environmental Studies
+Solid State and Superconductivity Abstracts
+Mechanical & Transportation Engineering Abstracts
+METADEX
+Advanced Polymers Abstracts
+Composites Industry Abstracts
+Engineered Materials Abstracts, Ceramics
+Electronics and Communications Abstracts
+Computer and Information Systems Abstracts
+CSA / ASCE Civil Engineering Abstracts
+ANTE: Abstracts in New Technologies and Engineering
+Corrosion Abstracts
+Copper Technical Reference Library
+90: Electronics and Communications Milieux (General) (EA)
+G1: General and Nonclassified (EC)
+90: Solid State Milieux (General) (SO)
+Yes: (AN)
+60: Design Principles, Theory, and Analysis (MT)
+71: General and Nonclassified (MD)
+G1: General and Nonclassified (ED)
+G1: General and Nonclassified (EP)
+60: Surveying, Theory, and Analysis (CE)
+90: Computing Milieux (General) (CI)
+LA  - English
+M1  - 7423
+N1  - Date revised - 2013-09-01
+PY  - 2012
+SN  - 0028-0836
+SP  - 244-248
+ST  - Mechanisms for oscillatory true polar wander
+T2  - Nature
+TI  - Mechanisms for oscillatory true polar wander
+UR  - http://ezproxy.carleton.edu/login?url=http://search.proquest.com/docview/1431781800?accountid=9892
+http://UU5BM5KQ6Z.search.serialssolutions.com/?ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/ProQ%3Apqdiearthsci&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.jtitle=Nature&rft.atitle=Mechanisms+for+oscillatory+true+polar+wander&rft.au=Creveling%2C+J+R%3BMitrovica%2C+J+X%3BChan%2C+N-H%3BLatychev%2C+K%3BMatsuyama%2C+I&rft.aulast=Creveling&rft.aufirst=J&rft.date=2012-11-08&rft.volume=491&rft.issue=7423&rft.spage=244&rft.isbn=&rft.btitle=&rft.title=Nature&rft.issn=00280836&rft_id=info:doi/10.1038%2Fnature11571
+VL  - 491
+ID  - 72
+ER  - 
+
+
+TY  - JOUR
+AU  - Curewitz, Daniel
+AU  - Karson, Jeffrey A.
+M1  - 12
+PY  - 1999
+SP  - 1693-1713
+ST  - Ultracataclasis, sintering, and frictional melting in pseudotachylytes from East Greenland
+T2  - Journal of Structural Geology
+TI  - Ultracataclasis, sintering, and frictional melting in pseudotachylytes from East Greenland
+VL  - 21
+ID  - 42
+ER  - 
+
+
+TY  - CHAP
+AU  - Delaney, Paul T
+L1  - internal-pdf://1101513929/Delaney_igneous_dike_modeling.pdf
+PB  - Geol. Assoc. Canada
+PY  - 1987
+SP  - 31-46
+ST  - Heat transfer during emplacement and cooling of mafic dykes
+T2  - Mafic dyke swarms
+TI  - Heat transfer during emplacement and cooling of mafic dykes
+VL  - 34
+ID  - 85
+ER  - 
+
+
+TY  - JOUR
+AU  - Deutsch, Alexander
+AU  - Schaerer, Urs
+M1  - 3
+PY  - 1994
+SN  - 1945-5100
+SP  - 301-322
+ST  - Dating terrestrial impact events
+T2  - Meteoritics
+TI  - Dating terrestrial impact events
+VL  - 29
+ID  - 100
+ER  - 
+
+
+TY  - JOUR
+AU  - Dietz, Robert S
+L1  - internal-pdf://3829176423/Dietz_1959.pdf
+PY  - 1959
+SN  - 0022-1376
+SP  - 496-505
+ST  - Shatter cones in cryptoexplosion structures (meteorite impact?)
+T2  - The Journal of Geology
+TI  - Shatter cones in cryptoexplosion structures (meteorite impact?)
+ID  - 108
+ER  - 
+
+
+TY  - JOUR
+AU  - Dietz, Robert S
+AU  - Butler, Louis W
+PY  - 1964
+SN  - 0028-0836
+SP  - 280-281
+ST  - Shatter-cone orientation at Sudbury, Canada
+T2  - Nature
+TI  - Shatter-cone orientation at Sudbury, Canada
+VL  - 204
+ID  - 109
+ER  - 
+
+
+TY  - JOUR
+AU  - Douce, Alberto E Patiño
+AU  - Harris, Nigel
+L1  - internal-pdf://4084960732/Patino_Deuce_1997.pdf
+M1  - 4
+PY  - 1998
+SN  - 0022-3530
+SP  - 689-710
+ST  - Experimental constraints on Himalayan anatexis
+T2  - Journal of Petrology
+TI  - Experimental constraints on Himalayan anatexis
+VL  - 39
+ID  - 94
+ER  - 
+
+
+TY  - JOUR
+AU  - Dressler, BO
+AU  - Sharpton, VL
+AU  - Schnieders, B
+AU  - Scott, J
+L1  - internal-pdf://0719885384/Dressler_1995.pdf
+PY  - 1995
+ST  - New observations at the Slate Islands impact structure, Lake Superior
+TI  - New observations at the Slate Islands impact structure, Lake Superior
+ID  - 111
+ER  - 
+
+
+TY  - JOUR
+AU  - Dressler, B. O.
+AU  - Reimold, W. U.
+M1  - 1
+PY  - 2001
+SP  - 205-284
+ST  - Terrestrial impact melt rocks and glasses
+T2  - Earth-Science Reviews
+TI  - Terrestrial impact melt rocks and glasses
+VL  - 56
+ID  - 57
+ER  - 
+
+
+TY  - JOUR
+AU  - Dressler, B. O.
+AU  - Reimold, W. U.
+M1  - 1
+PY  - 2004
+SP  - 1-54
+ST  - Order or chaos? Origin and mode of emplacement of breccias in floors of large impact structures
+T2  - Earth-Science Reviews
+TI  - Order or chaos? Origin and mode of emplacement of breccias in floors of large impact structures
+VL  - 67
+ID  - 39
+ER  - 
+
+
+TY  - JOUR
+AU  - Dressler, Burkhard O.
+AU  - Sharpton, Virgil L.
+M1  - 4
+PY  - 1997
+SP  - 285-311
+ST  - Breccia formation at a complex impact crater: Slate Islands, Lake Superior, Ontario, Canada
+T2  - Tectonophysics
+TI  - Breccia formation at a complex impact crater: Slate Islands, Lake Superior, Ontario, Canada
+VL  - 275
+ID  - 44
+ER  - 
+
+
+TY  - JOUR
+AU  - Dressler, Burkhard O
+AU  - Sharpton, Virgil L
+L1  - internal-pdf://0719885386/Dressler_Breccia formation at a complex impact.pdf
+M1  - 4
+PY  - 1997
+SN  - 0040-1951
+SP  - 285-311
+ST  - Breccia formation at a complex impact crater: Slate Islands, Lake Superior, Ontario, Canada
+T2  - Tectonophysics
+TI  - Breccia formation at a complex impact crater: Slate Islands, Lake Superior, Ontario, Canada
+VL  - 275
+ID  - 76
+ER  - 
+
+
+TY  - JOUR
+AU  - Dressler, Burkhard O
+AU  - Sharpton, Virgil L
+AU  - Schuraytz, Benjamin C
+M1  - 3-4
+PY  - 1998
+SN  - 0010-7999
+SP  - 275-287
+ST  - Shock metamorphism and shock barometry at a complex impact structure: Slate Islands, Canada
+T2  - Contributions to mineralogy and petrology
+TI  - Shock metamorphism and shock barometry at a complex impact structure: Slate Islands, Canada
+VL  - 130
+ID  - 128
+ER  - 
+
+
+TY  - JOUR
+AU  - Ernstson, K.
+AU  - Hammann, W.
+AU  - Fiebag, J.
+AU  - Graup, G.
+M1  - 4
+PY  - 1985
+SP  - 361-370
+ST  - Evidence of an impact origin for the Azuara structure (Spain)
+T2  - Earth and Planetary Science Letters
+TI  - Evidence of an impact origin for the Azuara structure (Spain)
+VL  - 74
+ID  - 33
+ER  - 
+
+
+TY  - JOUR
+AU  - Ernstson, Priv-Doz Dr Kord
+AU  - Fiebag, Johannes
+M1  - 2
+PY  - 1992
+SP  - 403-427
+ST  - The Azuara impact structure (Spain): new insights from geophysical and geological investigations
+T2  - Geologische Rundschau
+TI  - The Azuara impact structure (Spain): new insights from geophysical and geological investigations
+VL  - 81
+ID  - 23
+ER  - 
+
+
+TY  - CONF
+AU  - Fisher, Ronald
+L1  - internal-pdf://2953234494/Fisher_1953.pdf
+M1  - 1130
+PB  - The Royal Society
+PY  - 1953
+SN  - 0080-4630
+SP  - 295-305
+ST  - Dispersion on a sphere
+T2  - Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences
+TI  - Dispersion on a sphere
+VL  - 217
+ID  - 95
+ER  - 
+
+
+TY  - JOUR
+AU  - Fiske, P. S.
+AU  - Hargraves, R. B.
+AU  - Onstott, T. C.
+AU  - Koeberl, C.
+AU  - Hougen, S. B.
+PY  - 1992
+SP  - 163-176
+ST  - Pseudotachylites of the Beaverhead impact structure: Geochemicaly geochronological, petrographic, and field investigations
+T2  - Geological Society of America Special Papers
+TI  - Pseudotachylites of the Beaverhead impact structure: Geochemicaly geochronological, petrographic, and field investigations
+VL  - 293
+ID  - 26
+ER  - 
+
+
+TY  - JOUR
+AU  - Fiske, Peter S
+AU  - Nellis, William J
+AU  - Lipp, Magnus
+AU  - Lorenzana, Hector
+AU  - Kikuchi, Masae
+AU  - Syono, Yasuhiko
+L1  - internal-pdf://1734575198/Fiske_et_al_1995.pdf
+M1  - 5234
+PY  - 1995
+SN  - 0036-8075
+SP  - 281-283
+ST  - Pseudotachylites generated in shock experiments: Implications for impact cratering products and processes
+T2  - Science
+TI  - Pseudotachylites generated in shock experiments: Implications for impact cratering products and processes
+VL  - 270
+ID  - 90
+ER  - 
+
+
+TY  - JOUR
+AU  - Florindo, Fabio
+AU  - De Michelis, Paola
+AU  - Piersanti, Antonio
+AU  - Boschi, Enzo
+M1  - 12
+PY  - 2005
+SN  - 2324-9250
+SP  - 123-123
+ST  - Could the Mw= 9.3 Sumatra earthquake trigger a geomagnetic jerk?
+T2  - Eos, Transactions American Geophysical Union
+TI  - Could the Mw= 9.3 Sumatra earthquake trigger a geomagnetic jerk?
+VL  - 86
+ID  - 125
+ER  - 
+
+
+TY  - JOUR
+AU  - French, Bevan M
+L1  - internal-pdf://0304089172/French_1998.pdf
+M3  - Technical Report
+PY  - 1998
+ST  - Traces of catastrophe: A handbook of shock-metamorphic effects in terrestrial meteorite impact structures
+T2  - Lunar and Planetary Institute Contribution 954
+TI  - Traces of catastrophe: A handbook of shock-metamorphic effects in terrestrial meteorite impact structures
+ID  - 80
+ER  - 
+
+
+TY  - JOUR
+AU  - French, Bevan M
+PY  - 1998
+ST  - Traces of Catastrophe: A Handbook of Shock-Metamorphic Effects in Terrestrial Meteorite Impact Structures
+T2  - Technical Report, LPI-Contrib-954
+TI  - Traces of Catastrophe: A Handbook of Shock-Metamorphic Effects in Terrestrial Meteorite Impact Structures
+VL  - 1
+ID  - 138
+ER  - 
+
+
+TY  - JOUR
+AU  - French, Bevan M.
+AU  - Cordua, William S.
+AU  - Plescia, J. B.
+M1  - 1-2
+PY  - 2004
+SP  - 200-218
+ST  - The Rock Elm meteorite impact structure, Wisconsin: Geology and shock-metamorphic effects in quartz
+T2  - Geological Society of America Bulletin
+TI  - The Rock Elm meteorite impact structure, Wisconsin: Geology and shock-metamorphic effects in quartz
+VL  - 116
+ID  - 34
+ER  - 
+
+
+TY  - JOUR
+AU  - French, Bevan M.
+AU  - Koeberl, Christian
+M1  - 1
+PY  - 2010
+SP  - 123-170
+ST  - The convincing identification of terrestrial meteorite impact structures: What works, what doesn't, and why
+T2  - Earth-Science Reviews
+TI  - The convincing identification of terrestrial meteorite impact structures: What works, what doesn't, and why
+VL  - 98
+ID  - 62
+ER  - 
+
+
+TY  - JOUR
+AU  - Gault, Donald E
+AU  - Oberbeck, VR
+AU  - Quaide, WL
+PY  - 1968
+ST  - Impact cratering mechanics and structures
+TI  - Impact cratering mechanics and structures
+ID  - 82
+ER  - 
+
+
+TY  - JOUR
+AU  - Grieve, RAF
+AU  - Garvin, JB
+L1  - internal-pdf://3172686009/Grieve_1984_Geometric model for excavation and.pdf
+M1  - B13
+PY  - 1984
+SN  - 2156-2202
+SP  - 11561-11572
+ST  - A geometric model for excavation and modification at terrestrial simple impact craters
+T2  - Journal of Geophysical Research: Solid Earth (1978–2012)
+TI  - A geometric model for excavation and modification at terrestrial simple impact craters
+VL  - 89
+ID  - 115
+ER  - 
+
+
+TY  - JOUR
+AU  - Grieve, Richard
+AU  - Therriault, Ann
+M1  - 1
+PY  - 2000
+SP  - 305-338
+ST  - Vredefort, Sudbury, Chicxulub: three of a kind?
+T2  - Annual Review of Earth and Planetary Sciences
+TI  - Vredefort, Sudbury, Chicxulub: three of a kind?
+VL  - 28
+ID  - 61
+ER  - 
+
+
+TY  - JOUR
+AU  - Grieve, Richard AF
+AU  - Robertson, P Blyth
+M1  - 1
+PY  - 1976
+SN  - 0010-7999
+SP  - 37-49
+ST  - Variations in shock deformation at the Slate Islands impact structure, Lake Superior, Canada
+T2  - Contributions to Mineralogy and Petrology
+TI  - Variations in shock deformation at the Slate Islands impact structure, Lake Superior, Canada
+VL  - 58
+ID  - 107
+ER  - 
+
+
+TY  - JOUR
+AU  - Grieve, R. A. F.
+PY  - 1993
+SP  - 203-230
+ST  - Impact craters: lessons from and for the Earth
+T2  - Vistas in astronomy
+TI  - Impact craters: lessons from and for the Earth
+VL  - 36
+ID  - 22
+ER  - 
+
+
+TY  - JOUR
+AU  - Grieve, R. A. F.
+AU  - Masaitis, V. L.
+M1  - 2
+PY  - 1994
+SP  - 105-151
+ST  - The economic potential of terrestrial impact craters
+T2  - International Geology Review
+TI  - The economic potential of terrestrial impact craters
+VL  - 36
+ID  - 58
+ER  - 
+
+
+TY  - JOUR
+AU  - Grieve, R. A. F.
+AU  - Pesonen, L. J.
+M1  - 1
+PY  - 1992
+SP  - 1-30
+ST  - The terrestrial impact cratering record
+T2  - Tectonophysics
+TI  - The terrestrial impact cratering record
+VL  - 216
+ID  - 59
+ER  - 
+
+
+TY  - JOUR
+AU  - Grieve, R. A. F.
+AU  - Pesonen, L. J.
+M1  - 1
+PY  - 1992
+SP  - 1-30
+ST  - The terrestrial impact cratering record
+T2  - Tectonophysics
+TI  - The terrestrial impact cratering record
+VL  - 216
+ID  - 66
+ER  - 
+
+
+TY  - JOUR
+AU  - Grieve, Richard A. F.
+AU  - Therriault, Ann M.
+PY  - 2013
+SP  - 90-105
+ST  - Impactites: Their characteristics and spatial distribution
+T2  - Impact cratering: Processes and products
+TI  - Impactites: Their characteristics and spatial distribution
+ID  - 9
+ER  - 
+
+
+TY  - JOUR
+AU  - Halls, HC
+M1  - 1
+PY  - 1978
+SN  - 0031-9201
+SP  - 1-11
+ST  - The use of converging remagnetization circles in palaeomagnetism
+T2  - Physics of the Earth and Planetary Interiors
+TI  - The use of converging remagnetization circles in palaeomagnetism
+VL  - 16
+ID  - 104
+ER  - 
+
+
+TY  - JOUR
+AU  - Halls, HC
+L1  - internal-pdf://3172686010/Geophys. J. Int.-1979-Halls-553-91.pdf
+M1  - 3
+PY  - 1979
+SN  - 0956-540X
+SP  - 553-591
+ST  - The Slate Islands meteorite impact site: a study of Shock Remanent Magnetization
+T2  - Geophysical Journal International
+TI  - The Slate Islands meteorite impact site: a study of Shock Remanent Magnetization
+VL  - 59
+ID  - 77
+ER  - 
+
+
+TY  - JOUR
+AU  - Halls, HC
+AU  - Grieve, RAF
+L1  - internal-pdf://2426206510/Halls_Grieve_1976.pdf
+M1  - 9
+PY  - 1976
+SN  - 0008-4077
+SP  - 1301-1309
+ST  - The Slate Islands: a probable complex meteorite impact structure in Lake Superior
+T2  - Canadian Journal of Earth Sciences
+TI  - The Slate Islands: a probable complex meteorite impact structure in Lake Superior
+VL  - 13
+ID  - 84
+ER  - 
+
+
+TY  - JOUR
+AU  - Head, James W.
+AU  - Mustard, John F.
+M1  - 10
+PY  - 2006
+SP  - 1675-1690
+ST  - Breccia dikes and crater‐related faults in impact craters on Mars: Erosion and exposure on the floor of a crater 75 km in diameter at the dichotomy boundary
+T2  - Meteoritics & Planetary Science
+TI  - Breccia dikes and crater‐related faults in impact craters on Mars: Erosion and exposure on the floor of a crater 75 km in diameter at the dichotomy boundary
+VL  - 41
+ID  - 15
+ER  - 
+
+
+TY  - JOUR
+AU  - Hisada, Eiko
+M1  - 8
+PY  - 2004
+SP  - 1419-1424
+ST  - Clast-size analysis of impact-generated pseudotachylite from Vredefort Dome, South Africa
+T2  - Journal of structural geology
+TI  - Clast-size analysis of impact-generated pseudotachylite from Vredefort Dome, South Africa
+VL  - 26
+ID  - 17
+ER  - 
+
+
+TY  - JOUR
+AU  - Hollings, Pete
+AU  - Smyk, Mark
+AU  - Addison, Bill
+AU  - Fralick, Phil
+L1  - internal-pdf://1129566413/ILGS_Guidebook.pdf
+PY  - 2006
+SP  - 21
+ST  - Field trip guidebook for the Slate Islands
+T2  - Institute on Lake Superior Geology
+TI  - Field trip guidebook for the Slate Islands
+VL  - Special Publication
+ID  - 91
+ER  - 
+
+
+TY  - JOUR
+AU  - Horton, J. Wright
+AU  - Gibson, Roger L.
+AU  - Reimold, Wolf Uwe
+AU  - Wittmann, Axel
+AU  - Gohn, Gregory S.
+AU  - Edwards, Lucy E.
+PY  - 2009
+SP  - 21-49
+ST  - Geologic columns for the ICDP-USGS Eyreville B core, Chesapeake Bay impact structure: Impactites and crystalline rocks, 1766 to 1096 m depth
+T2  - Geological Society of America Special Papers
+TI  - Geologic columns for the ICDP-USGS Eyreville B core, Chesapeake Bay impact structure: Impactites and crystalline rocks, 1766 to 1096 m depth
+VL  - 458
+ID  - 40
+ER  - 
+
+
+TY  - JOUR
+AU  - Hörz, Friedrich
+AU  - Ostertag, Rolf
+AU  - Rainey, D. A.
+M1  - 8
+PY  - 1983
+SP  - 1667-1725
+ST  - Bunte Breccia of the Ries: Continuous deposits of large impact craters
+T2  - Reviews of Geophysics
+TI  - Bunte Breccia of the Ries: Continuous deposits of large impact craters
+VL  - 21
+ID  - 63
+ER  - 
+
+
+TY  - JOUR
+AU  - Hurst, Andrew
+AU  - Huuse, Mads
+AU  - Cartwright, J. A.
+AU  - Duranti, Davide
+PY  - 2007
+SP  - 24
+ST  - Sand injectites in deep-water clastic reservoirs: Are they there and do they matter
+T2  - Atlas of deep-water outcrops: AAPG Studies in Geology
+TI  - Sand injectites in deep-water clastic reservoirs: Are they there and do they matter
+VL  - 56
+ID  - 11
+ER  - 
+
+
+TY  - JOUR
+AU  - Huson, Sarah
+AU  - Pope, Michael
+AU  - Watkinson, A. John
+AU  - Foit, Franklin
+M1  - 1-2
+PY  - 2011
+SP  - 371-383
+ST  - Deformational features and impact-generated breccia from the Sierra Madera impact structure, west Texas
+T2  - Geological Society of America Bulletin
+TI  - Deformational features and impact-generated breccia from the Sierra Madera impact structure, west Texas
+VL  - 123
+ID  - 8
+ER  - 
+
+
+TY  - JOUR
+AU  - Hyodo, Masayuki
+AU  - Nakaya, Hideo
+AU  - Urabe, Atsushi
+AU  - Saegusa, Haruo
+AU  - Shunrong, Xue
+AU  - Jiyun, Yin
+AU  - Xuepin, Ji
+M1  - 1
+PY  - 2002
+SN  - 0047-2484
+SP  - 27-41
+ST  - Paleomagnetic dates of hominid remains from Yuanmou, China, and other Asian sites
+T2  - Journal of Human Evolution
+TI  - Paleomagnetic dates of hominid remains from Yuanmou, China, and other Asian sites
+VL  - 43
+ID  - 119
+ER  - 
+
+
+TY  - CONF
+AU  - Ivanov, BA
+AU  - Kostuchenko, VN
+PY  - 1998
+SP  - 1654
+ST  - Impact crater formation: Dry friction and fluidization influence on the scaling and modification
+T2  - Lunar and Planetary Institute Science Conference Abstracts
+TI  - Impact crater formation: Dry friction and fluidization influence on the scaling and modification
+VL  - 29
+ID  - 99
+ER  - 
+
+
+TY  - JOUR
+AB  - Authigenic formation of fine-grained magnetite is responsible for widespread chemical remagnetization of many carbonate rocks. Authigenic magnetite grains, dominantly in the superparamagnetic and stable single-domain size range, also give rise to distinctive rock-magnetic properties, now commonly used as a "fingerprint" of remagnetization. We re-examine the basis of this association in terms of magnetic mineralogy and particle-size distribution in remagnetized carbonates having these characteristic rock-magnetic properties, including "wasp-waisted" hysteresis loops, high ratios of anhysteretic remanence to saturation remanence and frequency-dependent susceptibility. New measurements on samples from the Helderberg Group allow us to quantify the proportions of superparamagnetic, stable single-domain and larger grains, and to evaluate the mineralogical composition of the remanence carriers. The dominant magnetic phase is magnetite-like, with sufficient impurity to completely suppress the Verwey transition. Particle sizes are extremely fine: approximately 75% of the total magnetite content is superparamagnetic at room temperature and almost all of the rest is stable single-domain. Although it has been proposed that the single-domain magnetite in these remagnetized carbonates lacks shape anisotropy (and is therefore controlled by cubic magnetocrystalline anisotropy), we have found strong experimental evidence that cubic anisotropy is not an important underlying factor in the rock-magnetic signature of chemical remagnetization.
+AN  - 1442371722; 2013-082149
+AU  - Jackson, Mike
+AU  - Swanson-Hysell, Nicholas L.
+DA  - 2012 Jun 27
+2014-01-16
+DB  - GeoRef
+DO  - http://dx.doi.org/10.1144/SP371.3
+KW  - United States
+lithostratigraphy
+remagnetization
+magnetization
+Appalachians
+authigenic minerals
+anhysteretic remanent magnetization
+Albany County New York
+Albany New York
+magnetic properties
+Ordovician
+sedimentary rocks
+mineral composition
+magnetic minerals
+remanent magnetization
+pyrrhotite
+North America
+Paleozoic
+Helderberg Group
+magnetic hysteresis
+paleomagnetism
+New York
+Devonian
+magnetic susceptibility
+carbonate rocks
+sulfides
+anisotropy
+18:Solid-earth geophysics
+06A:Sedimentary petrology
+LA  - English
+M1  - 1
+N1  - Copyright - GeoRef, Copyright 2014, American Geosciences Institute. Reference includes data from The Geological Society, London, London, United Kingdom
+Date revised - 2013-01-01
+Number of references - 135
+SuppNotes - Online First
+CODEN - GSLSBW
+SubjectsTermNotLitGenreText - Albany County New York; Albany New York; anhysteretic remanent magnetization; anisotropy; Appalachians; authigenic minerals; carbonate rocks; Devonian; Helderberg Group; lithostratigraphy; magnetic hysteresis; magnetic minerals; magnetic properties; magnetic susceptibility; magnetization; mineral composition; New York; North America; Ordovician; paleomagnetism; Paleozoic; pyrrhotite; remagnetization; remanent magnetization; sedimentary rocks; sulfides; United States
+PY  - 2012
+SN  - 0305-8719, 0305-8719
+SP  - 229-251
+ST  - Rock magnetism of remagnetized carbonate rocks; another look
+T2  - Special Publication - Geological Society of London
+TI  - Rock magnetism of remagnetized carbonate rocks; another look
+UR  - http://ezproxy.carleton.edu/login?url=http://search.proquest.com/docview/1442371722?accountid=9892
+http://UU5BM5KQ6Z.search.serialssolutions.com/?ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/ProQ%3Ageorefmodule&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.jtitle=Special+Publication+-+Geological+Society+of+London&rft.atitle=Rock+magnetism+of+remagnetized+carbonate+rocks%3B+another+look&rft.au=Jackson%2C+Mike%3BSwanson-Hysell%2C+Nicholas+L&rft.aulast=Jackson&rft.aufirst=Mike&rft.date=2012-06-27&rft.volume=371&rft.issue=1&rft.spage=229&rft.isbn=&rft.btitle=&rft.title=Special+Publication+-+Geological+Society+of+London&rft.issn=03058719&rft_id=info:doi/10.1144%2FSP371.3
+http://sp.lyellcollection.org/
+VL  - 371
+ID  - 71
+ER  - 
+
+
+TY  - JOUR
+AU  - James, Odette B.
+AU  - Flohr, Marta K.
+AU  - Lindstrom, Marilyn M.
+M1  - S01
+PY  - 1984
+SP  - C63-C86
+ST  - Petrology and geochemistry of lunar dimict breccia 61015
+T2  - Journal of Geophysical Research: Solid Earth (1978–2012)
+TI  - Petrology and geochemistry of lunar dimict breccia 61015
+VL  - 89
+ID  - 36
+ER  - 
+
+
+TY  - JOUR
+AU  - Karson, Jeffrey A.
+AU  - Brooks, C. Kent
+AU  - Storey, Michael
+AU  - Pringle, Malcolm S.
+M1  - 1
+PY  - 1998
+SP  - 39-42
+ST  - Tertiary faulting and pseudotachylytes in the East Greenland volcanic rifted margin: Seismogenic faulting during magmatic construction
+T2  - Geology
+TI  - Tertiary faulting and pseudotachylytes in the East Greenland volcanic rifted margin: Seismogenic faulting during magmatic construction
+VL  - 26
+ID  - 30
+ER  - 
+
+
+TY  - JOUR
+AU  - Kenkmann, T.
+AU  - Hornemann, U.
+AU  - Stöffler, D.
+M1  - 6
+PY  - 2000
+SP  - 1275-1290
+ST  - Experimental generation of shock‐induced pseudotachylites along lithological interfaces
+T2  - Meteoritics & Planetary Science
+TI  - Experimental generation of shock‐induced pseudotachylites along lithological interfaces
+VL  - 35
+ID  - 49
+ER  - 
+
+
+TY  - JOUR
+AU  - Kenkmann, Thomas
+AU  - Poelchau, Michael H.
+AU  - Wulf, Gerwin
+PY  - 2014
+SP  - 156-182
+ST  - Structural geology of impact craters
+T2  - Journal of Structural Geology
+TI  - Structural geology of impact craters
+VL  - 62
+ID  - 6
+ER  - 
+
+
+TY  - CONF
+AU  - Kerrigan, MC
+AU  - Clayton, J
+AU  - Nuhn, AM
+AU  - Pickersgill, AE
+AU  - Osinski, GR
+PY  - 2014
+SP  - 1588
+ST  - The Slate Islands Impact Structure, Lake Superior, Canada; Field and Petrographic Observations of Impact Breccias
+T2  - Lunar and Planetary Institute Science Conference Abstracts
+TI  - The Slate Islands Impact Structure, Lake Superior, Canada; Field and Petrographic Observations of Impact Breccias
+VL  - 45
+ID  - 131
+ER  - 
+
+
+TY  - JOUR
+AU  - Kirschvink, JL
+M1  - 3
+PY  - 1980
+SN  - 0956-540X
+SP  - 699-718
+ST  - The least-squares line and plane and the analysis of palaeomagnetic data
+T2  - Geophysical Journal International
+TI  - The least-squares line and plane and the analysis of palaeomagnetic data
+VL  - 62
+ID  - 114
+ER  - 
+
+
+TY  - BOOK
+A2  - Schopf, J. William
+A2  - Klein, Cornelis
+AN  - 50272336; 1994-016303
+AU  - Kirschvink, Joseph L.
+DA  - 1992
+DB  - GeoRef
+KW  - models
+ancient ice ages
+upper Precambrian
+Precambrian
+glaciation
+Proterozoic
+paleomagnetism
+glacial geology
+Neoproterozoic
+12:Stratigraphy
+LA  - English
+N1  - Copyright - GeoRef, Copyright 2012, American Geosciences Institute.
+Date revised - 1994-01-01
+Last updated - 2012-06-07
+PB  - Cambridge Univ. Press, Cambridge
+PY  - 1992
+ST  - Late Proterozoic low-latitude global glaciation; the snowball Earth
+TI  - Late Proterozoic low-latitude global glaciation; the snowball Earth
+UR  - http://ezproxy.carleton.edu/login?url=http://search.proquest.com/docview/50272336?accountid=9892
+http://UU5BM5KQ6Z.search.serialssolutions.com/?ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/GeoRef&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.genre=book&rft.jtitle=&rft.atitle=&rft.au=Kirschvink%2C+Joseph+L&rft.aulast=Kirschvink&rft.aufirst=Joseph&rft.date=1992-01-01&rft.volume=&rft.issue=&rft.spage=&rft.isbn=&rft.btitle=Late+Proterozoic+low-latitude+global+glaciation%3B+the+snowball+Earth&rft.title=Late+Proterozoic+low-latitude+global+glaciation%3B+the+snowball+Earth&rft.issn=&rft_id=info:doi/
+ID  - 67
+ER  - 
+
+
+TY  - JOUR
+AU  - Kirschvink, Joseph L
+AU  - Kopp, Robert E
+AU  - Raub, Timothy D
+AU  - Baumgartner, Christopher T
+AU  - Holt, John W
+M1  - 5
+PY  - 2008
+SN  - 1525-2027
+ST  - Rapid, precise, and high‐sensitivity acquisition of paleomagnetic and rock‐magnetic data: Development of a low‐noise automatic sample changing system for superconducting rock magnetometers
+T2  - Geochemistry, Geophysics, Geosystems
+TI  - Rapid, precise, and high‐sensitivity acquisition of paleomagnetic and rock‐magnetic data: Development of a low‐noise automatic sample changing system for superconducting rock magnetometers
+VL  - 9
+ID  - 113
+ER  - 
+
+
+TY  - JOUR
+AU  - Lafrance, Bruno
+AU  - Kamber, Balz S.
+M1  - 3
+PY  - 2010
+SP  - 237-250
+ST  - Geochemical and microstructural evidence for< i> in situ</i> formation of pseudotachylitic Sudbury breccia by shock-induced compression and cataclasis
+T2  - Precambrian Research
+TI  - Geochemical and microstructural evidence for< i> in situ</i> formation of pseudotachylitic Sudbury breccia by shock-induced compression and cataclasis
+VL  - 180
+ID  - 10
+ER  - 
+
+
+TY  - CONF
+AU  - Lambert, P
+L1  - internal-pdf://3829176425/Lambert_Breccia dikes.pdf
+PY  - 1981
+SP  - 59-78
+ST  - Breccia dikes-Geological constraints on the formation of complex craters
+T2  - Multi-ring basins: Formation and evolution
+TI  - Breccia dikes-Geological constraints on the formation of complex craters
+VL  - 1
+ID  - 75
+ER  - 
+
+
+TY  - JOUR
+AU  - Lambert, P.
+PY  - 2010
+SP  - 509-541
+ST  - Target and impact deposits at Rochechouart impact structure, France
+T2  - Geological Society of America Special Papers
+TI  - Target and impact deposits at Rochechouart impact structure, France
+VL  - 465
+ID  - 20
+ER  - 
+
+
+TY  - JOUR
+AU  - Lambert, Philippe
+AU  - Trumel, Hervé
+PY  - 2010
+SP  - 1-43
+ST  - Geomaterials under extreme loading: The natural case
+T2  - Materials under Extreme Loadings: Application to Penetration and Impact
+TI  - Geomaterials under extreme loading: The natural case
+ID  - 2
+ER  - 
+
+
+TY  - JOUR
+AU  - Lemieux, Yvon
+AU  - Tremblay, Alain
+AU  - Lavoie, Denis
+M1  - 2
+PY  - 2003
+SP  - 221-235
+ST  - Structural analysis of supracrustal faults in the Charlevoix area, Quebec: relation to impact cratering and the St-Laurent fault system
+T2  - Canadian Journal of Earth Sciences
+TI  - Structural analysis of supracrustal faults in the Charlevoix area, Quebec: relation to impact cratering and the St-Laurent fault system
+VL  - 40
+ID  - 35
+ER  - 
+
+
+TY  - JOUR
+AB  - Existing views on the tectonic evolution of the Central Asian orogenic belt (CAOB) are highly controversial and the Neoproterozoic to Cambrian stages of this evolution remain the most enigmatic. However, the views on the Paleozoic evolution of the CAOB crucially depend on these early stages, as different choices of the starting point lead to very dissimilar Paleozoic reconstructions. In this context numerous microcontinents with the Precambrian basement that are included in the mosaic structure of Kazakhstan, Tien Shan, Altai and Mongolia are of particular interest. We undertook a paleomagnetic, geochemical and geochronological study of the Neoproterozoic volcanics from one of these units - the Baydaric microcontinent in Central Mongolia. According to U-Pb (laser ablation) dating the age of the studied Dzabkhan Volcanics is about 770-805 Ma. Thermal demagnetization revealed that most of the studied samples retained a pre-tilting component, whose primary origin is supported by a conglomerate test. These new data, together with available geological information allow us to conclude that about 770-800 Ma ago the Baydaric domain was located at a latitude of 47 (sub -12) (super +16o) N and belonged to one of the following plates: India, South China, Tarim or Australia.
+AN  - 742923315; 2010-057439
+AU  - Levashova, N. M.
+AU  - Kalugin, V. M.
+AU  - Gibsher, A. S.
+AU  - Yff, Jessica
+AU  - Ryabinin, Alexander B.
+AU  - Meert, J. G.
+AU  - Malone, S. J.
+DA  - April 2010
+2012-06-07
+DB  - GeoRef
+DO  - http://dx.doi.org/10.1016/j.tecto.2010.01.012
+KW  - Far East
+demagnetization
+upper Precambrian
+U/Pb
+Mongolian Altai
+Tien Shan
+Central Asia
+Cambrian
+Commonwealth of Independent States
+dates
+Central Asian orogenic belt
+continents
+absolute age
+tectonics
+Asia
+geochemistry
+Neoproterozoic
+Precambrian
+Paleozoic
+Mongolia
+Proterozoic
+paleomagnetism
+orogenic belts
+Dzabkhan Volcanics
+paleogeography
+Altai Mountains
+plate tectonics
+Baydaric Microcontinent
+microplates
+Kazakhstan
+reconstruction
+18:Solid-earth geophysics
+03:Geochronology
+LA  - English
+M1  - 1-4
+N1  - Copyright - GeoRef, Copyright 2012, American Geosciences Institute. Reference includes data from CAPCAS, Elsevier Scientific Publishers, Amsterdam, Netherlands
+Date revised - 2010-01-01
+CODEN - TCTOAM
+SubjectsTermNotLitGenreText - absolute age; Altai Mountains; Asia; Baydaric Microcontinent; Cambrian; Central Asia; Central Asian orogenic belt; Commonwealth of Independent States; continents; dates; demagnetization; Dzabkhan Volcanics; Far East; geochemistry; Kazakhstan; microplates; Mongolia; Mongolian Altai; Neoproterozoic; orogenic belts; paleogeography; paleomagnetism; Paleozoic; plate tectonics; Precambrian; Proterozoic; reconstruction; tectonics; Tien Shan; U/Pb; upper Precambrian
+PY  - 2010
+SN  - 0040-1951, 0040-1951
+SP  - 306-320
+ST  - The origin of the Baydaric Microcontinent, Mongolia; constraints from paleomagnetism and geochronology
+T2  - Tectonophysics
+TI  - The origin of the Baydaric Microcontinent, Mongolia; constraints from paleomagnetism and geochronology
+UR  - http://ezproxy.carleton.edu/login?url=http://search.proquest.com/docview/742923315?accountid=9892
+http://UU5BM5KQ6Z.search.serialssolutions.com/?ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/ProQ%3Ageorefmodule&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.jtitle=Tectonophysics&rft.atitle=The+origin+of+the+Baydaric+Microcontinent%2C+Mongolia%3B+constraints+from+paleomagnetism+and+geochronology&rft.au=Levashova%2C+N+M%3BKalugin%2C+V+M%3BGibsher%2C+A+S%3BYff%2C+Jessica%3BRyabinin%2C+Alexander+B%3BMeert%2C+J+G%3BMalone%2C+S+J&rft.aulast=Levashova&rft.aufirst=N&rft.date=2010-04-01&rft.volume=485&rft.issue=1-4&rft.spage=306&rft.isbn=&rft.btitle=&rft.title=Tectonophysics&rft.issn=00401951&rft_id=info:doi/10.1016%2Fj.tecto.2010.01.012
+http://www.sciencedirect.com/science/journal/00401951
+VL  - 485
+ID  - 73
+ER  - 
+
+
+TY  - JOUR
+AU  - Lieger, Daniel
+AU  - Riller, Ulrich
+AU  - Gibson, Roger L.
+M1  - 16
+PY  - 2011
+SP  - 4490-4514
+ST  - Petrographic and geochemical evidence for an allochthonous, possibly impact melt, origin of pseudotachylite from the Vredefort Dome, South Africa
+T2  - Geochimica et Cosmochimica Acta
+TI  - Petrographic and geochemical evidence for an allochthonous, possibly impact melt, origin of pseudotachylite from the Vredefort Dome, South Africa
+VL  - 75
+ID  - 14
+ER  - 
+
+
+TY  - JOUR
+AU  - Macdonald, Francis A
+AU  - Schmitz, Mark D
+AU  - Crowley, James L
+AU  - Roots, Charles F
+AU  - Jones, David S
+AU  - Maloof, Adam C
+AU  - Strauss, Justin V
+AU  - Cohen, Phoebe A
+AU  - Johnston, David T
+AU  - Schrag, Daniel P
+M1  - 5970
+PY  - 2010
+SN  - 0036-8075
+SP  - 1241-1243
+ST  - Calibrating the cryogenian
+T2  - Science
+TI  - Calibrating the cryogenian
+VL  - 327
+ID  - 74
+ER  - 
+
+
+TY  - JOUR
+AB  - We present new paleomagnetic data from three Middle Neoproterozoic carbonate units of East Svalbard, Norway. The paleomagnetic record is gleaned from 50 to 650 m of continuous, platformal carbonate sediment, is reproduced at three locations distributed over >100 km on a single craton, and scores a 5-6 (out of 7) on the Van der Voo (1990) reliability scale. Two >50 degrees shifts in paleomagnetic direction are coincident with equally abrupt shifts in delta (super 13) C and transient changes in relative sea level. We explore four possible explanations for these coincidental changes: rapid plate tectonic rotation during depositional hiatus, magnetic excursions, nongeocentric axial-dipole fields, and true polar wander. We conclude that the observations are explained most readily by rapid shifts in paleogeography associated with a pair of true polar wander events. Future work in sediments of equivalent age from other basins can test directly the true polar wander hypothesis because this type of event would affect every continent in a predictable manner, depending on the continent's changing position relative to Earth's spin axis.
+AN  - 51552191; 2006-071542
+AU  - Maloof, Adam C.
+AU  - Halverson, Galen P.
+AU  - Kirschvink, Joseph L.
+AU  - Schrag, Daniel P.
+AU  - Weiss, Benjamin P.
+AU  - Hoffman, Paul F.
+DA  - October 2006
+2012-06-07
+DB  - GeoRef
+DO  - http://dx.doi.org/10.1130/B25892.1
+KW  - upper Precambrian
+Svalbard
+isotopes
+Grusdievbreen Formation
+magnetization
+stable isotopes
+sedimentary rocks
+remanent magnetization
+carbon
+geochemistry
+Neoproterozoic
+Sturtian
+Precambrian
+Svanbergfjellet Formation
+isotope ratios
+Arctic region
+C-13/C-12
+Proterozoic
+paleomagnetism
+paleogeography
+geochemical cycle
+characteristic remanent magnetization
+ancient ice ages
+sea-level changes
+Akademikerbreen Group
+polar wandering
+carbon cycle
+carbonate rocks
+field studies
+12:Stratigraphy
+LA  - English
+M1  - 9-10
+N1  - Copyright - GeoRef, Copyright 2012, American Geosciences Institute. Reference includes data supplied by the Geological Society of America, Boulder, CO, United States
+Date revised - 2006-01-01
+Number of references - 250
+PubXState - CO
+SuppNotes - Includes appendix
+CODEN - BUGMAF
+SubjectsTermNotLitGenreText - Akademikerbreen Group; ancient ice ages; Arctic region; C-13/C-12; carbon; carbon cycle; carbonate rocks; characteristic remanent magnetization; field studies; geochemical cycle; geochemistry; Grusdievbreen Formation; isotope ratios; isotopes; magnetization; Neoproterozoic; paleogeography; paleomagnetism; polar wandering; Precambrian; Proterozoic; remanent magnetization; sea-level changes; sedimentary rocks; stable isotopes; Sturtian; Svalbard; Svanbergfjellet Formation; upper Precambrian
+PY  - 2006
+SN  - 0016-7606, 0016-7606
+SP  - 1099-1124
+ST  - Combined paleomagnetic, isotopic, and stratigraphic evidence for true polar wander from the Neoproterozoic Akademikerbreen Group, Svalbard, Norway
+T2  - Geological Society of America Bulletin
+TI  - Combined paleomagnetic, isotopic, and stratigraphic evidence for true polar wander from the Neoproterozoic Akademikerbreen Group, Svalbard, Norway
+UR  - http://ezproxy.carleton.edu/login?url=http://search.proquest.com/docview/51552191?accountid=9892
+http://UU5BM5KQ6Z.search.serialssolutions.com/?ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/ProQ%3Ageorefmodule&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.jtitle=Geological+Society+of+America+Bulletin&rft.atitle=Combined+paleomagnetic%2C+isotopic%2C+and+stratigraphic+evidence+for+true+polar+wander+from+the+Neoproterozoic+Akademikerbreen+Group%2C+Svalbard%2C+Norway&rft.au=Maloof%2C+Adam+C%3BHalverson%2C+Galen+P%3BKirschvink%2C+Joseph+L%3BSchrag%2C+Daniel+P%3BWeiss%2C+Benjamin+P%3BHoffman%2C+Paul+F&rft.aulast=Maloof&rft.aufirst=Adam&rft.date=2006-10-01&rft.volume=118&rft.issue=9-10&rft.spage=1099&rft.isbn=&rft.btitle=&rft.title=Geological+Society+of+America+Bulletin&rft.issn=00167606&rft_id=info:doi/10.1130%2FB25892.1
+http://www.gsajournals.org/
+VL  - 118
+ID  - 68
+ER  - 
+
+
+TY  - JOUR
+AU  - Mariano, John
+AU  - Hinze, William J
+M1  - 4
+PY  - 1994
+SN  - 0008-4077
+SP  - 619-628
+ST  - Structural interpretation of the Midcontinent Rift in eastern Lake Superior from seismic reflection and potential-field studies
+T2  - Canadian Journal of Earth Sciences
+TI  - Structural interpretation of the Midcontinent Rift in eastern Lake Superior from seismic reflection and potential-field studies
+VL  - 31
+ID  - 110
+ER  - 
+
+
+TY  - JOUR
+AU  - Martini, J. E. J.
+M1  - 1
+PY  - 1991
+SP  - 285-300
+ST  - The nature, distribution and genesis of the coesite and stishovite associated with the pseudotachylite of the Vredefort Dome, South Africa
+T2  - Earth and Planetary Science Letters
+TI  - The nature, distribution and genesis of the coesite and stishovite associated with the pseudotachylite of the Vredefort Dome, South Africa
+VL  - 103
+ID  - 56
+ER  - 
+
+
+TY  - JOUR
+AU  - Masaitis, Victor L.
+PY  - 2005
+SP  - 111-129
+ST  - Redistribution of lithologies in impact-induced dikes of impact structures
+T2  - Impact Tectonics
+TI  - Redistribution of lithologies in impact-induced dikes of impact structures
+ID  - 7
+ER  - 
+
+
+TY  - BOOK
+AU  - McElhinny, Michael W
+AU  - McFadden, Phillip L
+PB  - Academic Press
+PY  - 1999
+SN  - 0080513468
+ST  - Paleomagnetism: continents and oceans
+TI  - Paleomagnetism: continents and oceans
+VL  - 73
+ID  - 123
+ER  - 
+
+
+TY  - CONF
+AU  - Melosh, HJ
+PY  - 1977
+SP  - 1245-1260
+ST  - Crater modification by gravity-A mechanical analysis of slumping
+T2  - Impact and Explosion Cratering: Planetary and Terrestrial Implications
+TI  - Crater modification by gravity-A mechanical analysis of slumping
+VL  - 1
+ID  - 117
+ER  - 
+
+
+TY  - JOUR
+AU  - Melosh, HJ
+M1  - B1
+PY  - 1982
+SN  - 2156-2202
+SP  - 371-380
+ST  - A schematic model of crater modification by gravity
+T2  - Journal of Geophysical Research: Solid Earth (1978–2012)
+TI  - A schematic model of crater modification by gravity
+VL  - 87
+ID  - 116
+ER  - 
+
+
+TY  - JOUR
+AU  - Melosh, HJ
+PY  - 1989
+ST  - Impact cratering: A geologic process
+T2  - Research supported by NASA. New York, Oxford University Press (Oxford Monographs on Geology and Geophysics, No. 11), 1989, 253 p.
+TI  - Impact cratering: A geologic process
+VL  - 1
+ID  - 79
+ER  - 
+
+
+TY  - CHAP
+AU  - Melosh, HJ
+L1  - internal-pdf://3006968069/Melosh_pseudotachylites.pdf
+PB  - Springer
+PY  - 2005
+SN  - 3540241817
+SP  - 55-80
+ST  - The mechanics of pseudotachylite formation in impact events
+T2  - Impact tectonics
+TI  - The mechanics of pseudotachylite formation in impact events
+ID  - 89
+ER  - 
+
+
+TY  - JOUR
+AU  - Melosh, HJ
+AU  - Ivanov, BA
+L1  - internal-pdf://3130390644/Melosh_1999_crater_collapse.pdf
+M1  - 1
+PY  - 1999
+SN  - 0084-6597
+SP  - 385-415
+ST  - Impact crater collapse
+T2  - Annual Review of Earth and Planetary Sciences
+TI  - Impact crater collapse
+VL  - 27
+ID  - 93
+ER  - 
+
+
+TY  - JOUR
+AU  - Melosh, H. J.
+M1  - 2
+PY  - 1984
+SP  - 234-260
+ST  - Impact ejection, spallation, and the origin of meteorites
+T2  - Icarus
+TI  - Impact ejection, spallation, and the origin of meteorites
+VL  - 59
+ID  - 65
+ER  - 
+
+
+TY  - JOUR
+AU  - Melosh, H. Jay
+PY  - 2005
+SP  - 55-80
+ST  - The mechanics of pseudotachylite formation in impact events
+T2  - Impact tectonics
+TI  - The mechanics of pseudotachylite formation in impact events
+ID  - 47
+ER  - 
+
+
+TY  - JOUR
+AU  - Montanari, Alessandro
+AU  - Koeberl, Christian
+PY  - 2000
+ST  - Impact stratigraphy: the Italian record
+TI  - Impact stratigraphy: the Italian record
+ID  - 64
+ER  - 
+
+
+TY  - JOUR
+AU  - Müller-Mohr, V.
+M1  - 1
+PY  - 1992
+SP  - 219-226
+ST  - Breccias in the basement of a deeply eroded impact structure, Sudbury, Canada
+T2  - Tectonophysics
+TI  - Breccias in the basement of a deeply eroded impact structure, Sudbury, Canada
+VL  - 216
+ID  - 41
+ER  - 
+
+
+TY  - JOUR
+AU  - Nicolaysen, LO
+AU  - Reimold, WU
+M1  - B3
+PY  - 1999
+SN  - 2156-2202
+SP  - 4911-4930
+ST  - Vredefort shatter cones revisited
+T2  - Journal of Geophysical Research: Solid Earth (1978–2012)
+TI  - Vredefort shatter cones revisited
+VL  - 104
+ID  - 127
+ER  - 
+
+
+TY  - BOOK
+AU  - Osinski, Gordon R
+AU  - Pierazzo, Elisabetta
+PB  - John Wiley & Sons
+PY  - 2012
+SN  - 1118447328
+ST  - Impact cratering: Processes and products
+TI  - Impact cratering: Processes and products
+ID  - 83
+ER  - 
+
+
+TY  - JOUR
+AU  - Pittarello, Lidia
+AU  - Schulz, Toni
+AU  - Koeberl, Christian
+AU  - Hoffmann, J.
+AU  - Münker, Carsten
+M1  - 7
+PY  - 2013
+SP  - 1160-1198
+ST  - Petrography, geochemistry, and Hf‐Nd isotope evolution of drill core samples and target rocks from the El'gygytgyn impact crater, NE Chukotka, Arctic Russia
+T2  - Meteoritics & Planetary Science
+TI  - Petrography, geochemistry, and Hf‐Nd isotope evolution of drill core samples and target rocks from the El'gygytgyn impact crater, NE Chukotka, Arctic Russia
+VL  - 48
+ID  - 12
+ER  - 
+
+
+TY  - JOUR
+AU  - Raschke, Ulli
+AU  - Schmitt, Ralf T.
+AU  - Reimold, W. Uwe
+M1  - 7
+PY  - 2013
+SP  - 1251-1286
+ST  - Petrography and geochemistry of impactites and volcanic bedrock in the ICDP drill core D1c from Lake El'gygytgyn, NE Russia
+T2  - Meteoritics & Planetary Science
+TI  - Petrography and geochemistry of impactites and volcanic bedrock in the ICDP drill core D1c from Lake El'gygytgyn, NE Russia
+VL  - 48
+ID  - 18
+ER  - 
+
+
+TY  - JOUR
+AU  - Raschke, Ulli
+AU  - Schmitt, Ralf T.
+AU  - Reimold, W. Uwe
+M1  - 7
+PY  - 2013
+SP  - 1251-1286
+ST  - Petrography and geochemistry of impactites and volcanic bedrock in the ICDP drill core D1c from Lake El'gygytgyn, NE Russia
+T2  - Meteoritics & Planetary Science
+TI  - Petrography and geochemistry of impactites and volcanic bedrock in the ICDP drill core D1c from Lake El'gygytgyn, NE Russia
+VL  - 48
+ID  - 19
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, WU
+M1  - 1-3
+PY  - 1995
+SP  - 21-45
+ST  - Impact cratering-A review, with special reference to the economic importance of impact structures and the Southern African impact crater record
+T2  - Earth, Moon, and Planets
+TI  - Impact cratering-A review, with special reference to the economic importance of impact structures and the Southern African impact crater record
+VL  - 70
+ID  - 24
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, WU
+L1  - internal-pdf://3516616717/Reimold_1995.pdf
+M1  - 3
+PY  - 1995
+SN  - 0012-8252
+SP  - 247-265
+ST  - Pseudotachylite in impact structures—generation by friction melting and shock brecciation?: A review and discussion
+T2  - Earth-Science Reviews
+TI  - Pseudotachylite in impact structures—generation by friction melting and shock brecciation?: A review and discussion
+VL  - 39
+ID  - 87
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, WU
+M1  - 1
+PY  - 1998
+SP  - 25-47
+ST  - Exogenic and endogenic breccias: a discussion of major problematics
+T2  - Earth-Science Reviews
+TI  - Exogenic and endogenic breccias: a discussion of major problematics
+VL  - 43
+ID  - 51
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, WU
+L1  - internal-pdf://0628175011/Reimold_1998.pdf
+M1  - 1
+PY  - 1998
+SN  - 0012-8252
+SP  - 25-47
+ST  - Exogenic and endogenic breccias: a discussion of major problematics
+T2  - Earth-Science Reviews
+TI  - Exogenic and endogenic breccias: a discussion of major problematics
+VL  - 43
+ID  - 88
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, W. U.
+M1  - 3
+PY  - 1995
+SP  - 247-265
+ST  - Pseudotachylite in impact structures—generation by friction melting and shock brecciation?: A review and discussion
+T2  - Earth-Science Reviews
+TI  - Pseudotachylite in impact structures—generation by friction melting and shock brecciation?: A review and discussion
+VL  - 39
+ID  - 54
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, W. U.
+M1  - 3
+PY  - 1995
+SP  - 247-265
+ST  - Pseudotachylite in impact structures—generation by friction melting and shock brecciation?: A review and discussion
+T2  - Earth-Science Reviews
+TI  - Pseudotachylite in impact structures—generation by friction melting and shock brecciation?: A review and discussion
+VL  - 39
+ID  - 55
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, W. U.
+AU  - Barr, J. M.
+AU  - Grieve, R. A. F.
+AU  - Durrheim, R. J.
+M1  - 7
+PY  - 1990
+SP  - 2093-2111
+ST  - Geochemistry of the melt and country rocks of the Lake St. Martin impact structure, Manitoba, Canada
+T2  - Geochimica et Cosmochimica Acta
+TI  - Geochemistry of the melt and country rocks of the Lake St. Martin impact structure, Manitoba, Canada
+VL  - 54
+ID  - 28
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, W. U.
+AU  - Collision, W. P.
+PY  - 1992
+SP  - 177-196
+ST  - Pseudotachylites of the Vredefort Dome and the surrounding Witwatersrand basin, South Africa
+T2  - Geological Society of America Special Papers
+TI  - Pseudotachylites of the Vredefort Dome and the surrounding Witwatersrand basin, South Africa
+VL  - 293
+ID  - 53
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, W. U.
+AU  - Colliston, W. P.
+AU  - Wallmach, T.
+M1  - 1
+PY  - 1992
+SP  - 213-217
+ST  - Comment on “The nature, distribution and genesis of the coesite and stishovite associated with the pseudotachylite of the Vredefort Dome, South Africa” by JEJ Martini
+T2  - Earth and planetary science letters
+TI  - Comment on “The nature, distribution and genesis of the coesite and stishovite associated with the pseudotachylite of the Vredefort Dome, South Africa” by JEJ Martini
+VL  - 112
+ID  - 13
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, Wolf U.
+AU  - Gibson, Roger L.
+PY  - 2005
+SP  - 1-53
+ST  - “Pseudotachylites” in large impact structures
+T2  - Impact tectonics
+TI  - “Pseudotachylites” in large impact structures
+ID  - 43
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, Wolf Uwe
+AU  - Gibson, Roger L.
+M1  - 1
+PY  - 2006
+SP  - 1-35
+ST  - The melt rocks of the Vredefort impact structure–Vredefort Granophyre and pseudotachylitic breccias: Implications for impact cratering and the evolution of the Witwatersrand Basin
+T2  - Chemie der Erde-Geochemistry
+TI  - The melt rocks of the Vredefort impact structure–Vredefort Granophyre and pseudotachylitic breccias: Implications for impact cratering and the evolution of the Witwatersrand Basin
+VL  - 66
+ID  - 38
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, Wolf Uwe
+AU  - Koeberl, Christian
+PY  - 2014
+SP  - 57-175
+ST  - Impact structures in Africa: A review
+T2  - Journal of African Earth Sciences
+TI  - Impact structures in Africa: A review
+VL  - 93
+ID  - 3
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, Wolf Uwe
+AU  - Koeberl, Christian
+AU  - Gibson, Roger L.
+AU  - Dressler, Burkhard O.
+PY  - 2005
+SP  - 479-552
+ST  - Economic mineral deposits in impact structures: A review
+T2  - Impact tectonics
+TI  - Economic mineral deposits in impact structures: A review
+ID  - 45
+ER  - 
+
+
+TY  - JOUR
+AU  - Reimold, W. U.
+AU  - Oskierski, W.
+AU  - Huth, J.
+M1  - B4
+PY  - 1987
+SP  - E737-E748
+ST  - The pseudotachylite from Champagnac in the Rochechouart meteorite crater, France
+T2  - Journal of Geophysical Research: Solid Earth (1978–2012)
+TI  - The pseudotachylite from Champagnac in the Rochechouart meteorite crater, France
+VL  - 92
+ID  - 32
+ER  - 
+
+
+TY  - JOUR
+AU  - Riller, Ulrich
+AU  - Lieger, Daniel
+AU  - Gibson, Roger L
+AU  - Grieve, Richard AF
+AU  - Stöffler, Dieter
+L1  - internal-pdf://1548233367/Riller_2010.pdf
+M1  - 7
+PY  - 2010
+SN  - 0091-7613
+SP  - 619-622
+ST  - Origin of large-volume pseudotachylite in terrestrial impact structures
+T2  - Geology
+TI  - Origin of large-volume pseudotachylite in terrestrial impact structures
+VL  - 38
+ID  - 98
+ER  - 
+
+
+TY  - MAP
+AU  - Sage, R.P.
+C1  - 1:10000
+ET  - 2523
+PB  - Ontario Geological Survey
+PY  - 1990
+SP  - Map 2523
+ST  - Precambrian geology, Slate Islands
+TI  - Precambrian geology, Slate Islands
+ID  - 137
+ER  - 
+
+
+TY  - JOUR
+AU  - Salminen, Johanna
+AU  - Pesonen, Lauri J
+AU  - Reimold, Wolf Uwe
+AU  - Donadini, Fabio
+AU  - Gibson, Roger L
+L1  - internal-pdf://1540383426/Salminen_2009.pdf
+M1  - 3
+PY  - 2009
+SN  - 0301-9268
+SP  - 167-184
+ST  - Paleomagnetic and rock magnetic study of the Vredefort impact structure and the Johannesburg Dome, Kaapvaal Craton, South Africa—implications for the apparent polar wander path of the Kaapvaal Craton during the Mesoproterozoic
+T2  - Precambrian Research
+TI  - Paleomagnetic and rock magnetic study of the Vredefort impact structure and the Johannesburg Dome, Kaapvaal Craton, South Africa—implications for the apparent polar wander path of the Kaapvaal Craton during the Mesoproterozoic
+VL  - 168
+ID  - 122
+ER  - 
+
+
+TY  - JOUR
+AU  - Shand, S James
+M1  - 1-4
+PY  - 1916
+SN  - 0370-291X
+SP  - 198-221
+ST  - The pseudotachylyte of Parijs (Orange free State), and its relation to ‘Trap-Shotten Gneiss’ and ‘Flinty Crush-rock’
+T2  - Quarterly Journal of the Geological Society
+TI  - The pseudotachylyte of Parijs (Orange free State), and its relation to ‘Trap-Shotten Gneiss’ and ‘Flinty Crush-rock’
+VL  - 72
+ID  - 86
+ER  - 
+
+
+TY  - JOUR
+AU  - Sharpton, Virgil L
+AU  - Dressler, Burkhard O
+AU  - Herrick, Robert R
+AU  - Schnieders, Bernie
+AU  - Scott, John
+L1  - internal-pdf://0719885385/Sharpton_et_al_1996.pdf
+M1  - 9
+PY  - 1996
+SN  - 0091-7613
+SP  - 851-854
+ST  - New constraints on the Slate Islands impact structure, Ontario, Canada
+T2  - Geology
+TI  - New constraints on the Slate Islands impact structure, Ontario, Canada
+VL  - 24
+ID  - 106
+ER  - 
+
+
+TY  - JOUR
+AU  - Sharpton, V. L.
+AU  - Grieve, R. A. F.
+PY  - 1990
+SP  - 301-318
+ST  - Meteorite impact, cryptoexplosion, and shock metamorphism; A perspective on the evidence at the K/T boundary
+T2  - Geological Society of America Special Papers
+TI  - Meteorite impact, cryptoexplosion, and shock metamorphism; A perspective on the evidence at the K/T boundary
+VL  - 247
+ID  - 48
+ER  - 
+
+
+TY  - JOUR
+AU  - Speranza, Fabio
+AU  - Pompilio, Massimo
+AU  - D'Ajello Caracciolo, Francesca
+AU  - Sagnotti, Leonardo
+M1  - B9
+PY  - 2008
+SN  - 2156-2202
+ST  - Holocene eruptive history of the Stromboli volcano: constraints from paleomagnetic dating
+T2  - Journal of Geophysical Research: Solid Earth (1978–2012)
+TI  - Holocene eruptive history of the Stromboli volcano: constraints from paleomagnetic dating
+VL  - 113
+ID  - 121
+ER  - 
+
+
+TY  - JOUR
+AU  - Spray, John G
+L1  - internal-pdf://0084353895/Spray_1995.pdf
+M1  - 12
+PY  - 1995
+SN  - 0091-7613
+SP  - 1119-1122
+ST  - Pseudotachylyte controversy: Fact or friction?
+T2  - Geology
+TI  - Pseudotachylyte controversy: Fact or friction?
+VL  - 23
+ID  - 97
+ER  - 
+
+
+TY  - JOUR
+AU  - Spray, John G.
+M1  - 1
+PY  - 1998
+SP  - 195-204
+ST  - Localized shock-and friction-induced melting in response to hypervelocity impact
+T2  - Geological Society, London, Special Publications
+TI  - Localized shock-and friction-induced melting in response to hypervelocity impact
+VL  - 140
+ID  - 52
+ER  - 
+
+
+TY  - JOUR
+AU  - Stesky, RM
+AU  - Halls, HC
+L1  - internal-pdf://3829176424/Stesky and Halls_1983.pdf
+M1  - 1
+PY  - 1983
+SN  - 0008-4077
+SP  - 1-18
+ST  - Structural analysis of shatter cones from the Slate Islands, northern Lake Superior
+T2  - Canadian Journal of Earth Sciences
+TI  - Structural analysis of shatter cones from the Slate Islands, northern Lake Superior
+VL  - 20
+ID  - 105
+ER  - 
+
+
+TY  - JOUR
+AU  - Stickle, A. M.
+AU  - Schultz, P. H.
+M1  - 8
+PY  - 2014
+SP  - 1839-1859
+ST  - Discrete shear failure planes resulting from oblique hypervelocity impacts
+T2  - Journal of Geophysical Research: Planets
+TI  - Discrete shear failure planes resulting from oblique hypervelocity impacts
+VL  - 119
+ID  - 4
+ER  - 
+
+
+TY  - JOUR
+AU  - Stöffler, D
+AU  - Gault, DE
+AU  - Wedekind, J
+AU  - Polkowski, G
+L1  - internal-pdf://4059243604/Stoffler_1975.pdf
+M1  - 29
+PY  - 1975
+SN  - 2156-2202
+SP  - 4062-4077
+ST  - Experimental hypervelocity impact into quartz sand: Distribution and shock metamorphism of ejecta
+T2  - Journal of Geophysical Research
+TI  - Experimental hypervelocity impact into quartz sand: Distribution and shock metamorphism of ejecta
+VL  - 80
+ID  - 92
+ER  - 
+
+
+TY  - JOUR
+AU  - Stöffler, D.
+AU  - Grieve, R. A. F.
+ST  - 2.11. Impactites
+TI  - 2.11. Impactites
+ID  - 5
+ER  - 
+
+
+TY  - JOUR
+AN  - 1244676868; 2013-008604
+AU  - Swanson-Hysell, Nicholas L.
+AU  - Maloof, Adam C.
+AU  - Kirschvink, Joseph L.
+AU  - Evans, David A. D.
+AU  - Halverson, Galen P.
+AU  - Hurtgen, Matthew T.
+DA  - October 2012
+2012-12-27
+DB  - GeoRef
+DO  - http://dx.doi.org/10.2475/08.2012.01
+KW  - supercontinents
+lithostratigraphy
+Laurentia
+Amadeus Basin
+upper Precambrian
+isotopes
+central Australia
+pole positions
+magnetostratigraphy
+stable isotopes
+apparent polar wandering
+sedimentary rocks
+rotation
+carbon
+chemostratigraphy
+Australia
+Neoproterozoic
+sequence stratigraphy
+Bitter Springs Formation
+Precambrian
+Australasia
+Paleozoic
+isotope ratios
+C-13/C-12
+Proterozoic
+paleomagnetism
+paleogeography
+orogeny
+16:Structural geology
+12:Stratigraphy
+LA  - English
+M1  - 8
+N1  - Copyright - GeoRef, Copyright 2013, American Geosciences Institute.
+Date revised - 2013-01-01
+Number of references - 252
+PubXState - CT
+CODEN - AJSCAP
+SubjectsTermNotLitGenreText - Amadeus Basin; apparent polar wandering; Australasia; Australia; Bitter Springs Formation; C-13/C-12; carbon; central Australia; chemostratigraphy; isotope ratios; isotopes; Laurentia; lithostratigraphy; magnetostratigraphy; Neoproterozoic; orogeny; paleogeography; paleomagnetism; Paleozoic; pole positions; Precambrian; Proterozoic; rotation; sedimentary rocks; sequence stratigraphy; stable isotopes; supercontinents; upper Precambrian
+PY  - 2012
+SN  - 0002-9599, 0002-9599
+SP  - 817-884
+ST  - Constraints on Neoproterozoic paleogeography and Paleozoic orogenesis from paleomagnetic records of the Bitter Springs Formation, Amadeus Basin, central Australia
+T2  - American Journal of Science
+TI  - Constraints on Neoproterozoic paleogeography and Paleozoic orogenesis from paleomagnetic records of the Bitter Springs Formation, Amadeus Basin, central Australia
+UR  - http://ezproxy.carleton.edu/login?url=http://search.proquest.com/docview/1244676868?accountid=9892
+http://UU5BM5KQ6Z.search.serialssolutions.com/?ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/ProQ%3Ageorefmodule&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.jtitle=American+Journal+of+Science&rft.atitle=Constraints+on+Neoproterozoic+paleogeography+and+Paleozoic+orogenesis+from+paleomagnetic+records+of+the+Bitter+Springs+Formation%2C+Amadeus+Basin%2C+central+Australia&rft.au=Swanson-Hysell%2C+Nicholas+L%3BMaloof%2C+Adam+C%3BKirschvink%2C+Joseph+L%3BEvans%2C+David+A+D%3BHalverson%2C+Galen+P%3BHurtgen%2C+Matthew+T&rft.aulast=Swanson-Hysell&rft.aufirst=Nicholas&rft.date=2012-10-01&rft.volume=312&rft.issue=8&rft.spage=817&rft.isbn=&rft.btitle=&rft.title=American+Journal+of+Science&rft.issn=00029599&rft_id=info:doi/10.2475%2F08.2012.01
+http://www.ajsonline.org/
+VL  - 312
+ID  - 69
+ER  - 
+
+
+TY  - BOOK
+AU  - Tauxe, Lisa
+PB  - Univ. of California Press
+PY  - 2010
+SN  - 0520260317
+ST  - Essentials of paleomagnetism
+TI  - Essentials of paleomagnetism
+ID  - 96
+ER  - 
+
+
+TY  - JOUR
+AU  - Tauxe, Lisa
+AU  - Kent, Dennis V
+PY  - 2004
+SN  - 1118665856
+SP  - 101-115
+ST  - A simplified statistical model for the geomagnetic field and the detection of shallow bias in paleomagnetic inclinations: was the ancient magnetic field dipolar?
+T2  - Timescales of the Paleomagnetic field
+TI  - A simplified statistical model for the geomagnetic field and the detection of shallow bias in paleomagnetic inclinations: was the ancient magnetic field dipolar?
+ID  - 129
+ER  - 
+
+
+TY  - JOUR
+AU  - Thompson, Lucy M.
+AU  - Spray, John G.
+PY  - 1992
+SP  - 275-288
+ST  - Pseudotachylytic rock distribution and genesis within the Sudbury impact structure
+T2  - Geological Society of America Special Papers
+TI  - Pseudotachylytic rock distribution and genesis within the Sudbury impact structure
+VL  - 293
+ID  - 50
+ER  - 
+
+
+TY  - JOUR
+AU  - Thompson, Lucy M.
+AU  - Spray, J. G.
+M1  - 4
+PY  - 1996
+SP  - 359-374
+ST  - Pseudotachylyte petrogenesis: constraints from the Sudbury impact structure
+T2  - Contributions to Mineralogy and Petrology
+TI  - Pseudotachylyte petrogenesis: constraints from the Sudbury impact structure
+VL  - 125
+ID  - 46
+ER  - 
+
+
+TY  - JOUR
+AU  - Tikoo, S.M.
+AU  - Swanson-Hysell, N.L.
+AU  - Fairchild, L.M.
+AU  - Renne, P.R.
+AU  - Shuster, D.L.
+PY  - 2015
+ST  - Origins of impact-related magnetization at the Slate Islands impact structure, Canada
+T2  - Lunar and Planetary Science Conference (in review)
+TI  - Origins of impact-related magnetization at the Slate Islands impact structure, Canada
+ID  - 101
+ER  - 
+
+
+TY  - JOUR
+AU  - Torsvik, Trond H
+AU  - Van der Voo, Rob
+AU  - Preeden, Ulla
+AU  - Mac Niocaill, Conall
+AU  - Steinberger, Bernhard
+AU  - Doubrovine, Pavel V
+AU  - van Hinsbergen, Douwe JJ
+AU  - Domeier, Mathew
+AU  - Gaina, Carmen
+AU  - Tohver, Eric
+L1  - internal-pdf://2442186215/2012-Torsvik-etal-ESR.pdf
+M1  - 3
+PY  - 2012
+SN  - 0012-8252
+SP  - 325-368
+ST  - Phanerozoic polar wander, palaeogeography and dynamics
+T2  - Earth-Science Reviews
+TI  - Phanerozoic polar wander, palaeogeography and dynamics
+VL  - 114
+ID  - 81
+ER  - 
+
+
+TY  - JOUR
+AU  - Tremblay, Alain
+AU  - Long, Bernard
+AU  - Massé, Manon
+M1  - 3
+PY  - 2003
+SP  - 231-252
+ST  - Supracrustal faults of the St. Lawrence rift system, Québec: kinematics and geometry as revealed by field mapping and marine seismic reflection data
+T2  - Tectonophysics
+TI  - Supracrustal faults of the St. Lawrence rift system, Québec: kinematics and geometry as revealed by field mapping and marine seismic reflection data
+VL  - 369
+ID  - 29
+ER  - 
+
+
+TY  - JOUR
+AU  - Van der Voo, Rob
+M1  - 1
+PY  - 1990
+SN  - 0040-1951
+SP  - 1-9
+ST  - The reliability of paleomagnetic data
+T2  - Tectonophysics
+TI  - The reliability of paleomagnetic data
+VL  - 184
+ID  - 130
+ER  - 
+
+
+TY  - JOUR
+AB  - Remagnetizations have been recognized ever since magnetizations in rocks were demonstrably shown to have been acquired at a much later time than the formation or deposition of the rocks themselves. There was mention of remagnetizations as early as the 1950s, and in the 1960s the concept was frequently hypothesized as an explanation for repetitions and loops in apparent polar wander paths. In this paper, remagnetization features and processes are organized by magnetic carrier: hematite, magnetite, Fe-sulphides and goethite. Selected case histories are presented which are chosen in order to reveal important diagnostics, although many origins of remagnetizations are still obscure or incompletely known.
+AN  - 1442373167; 2013-082150
+AU  - Van der Voo, Rob
+AU  - Torsvik, Trond H.
+DA  - 2012 Jun 27
+2014-01-16
+DB  - GeoRef
+DO  - http://dx.doi.org/10.1144/SP371.2
+KW  - United States
+relative age
+remagnetization
+iron oxides
+magnetization
+Appalachians
+Europe
+magnetostratigraphy
+Switzerland
+Cambrian
+magnetic properties
+apparent polar wandering
+sedimentary rocks
+mineral composition
+magnetic minerals
+geochronology
+remanent magnetization
+Western U.S.
+Triassic
+Central Europe
+oxides
+mineral assemblages
+depositional environment
+Jura Mountains
+red beds
+Moenkopi Formation
+North America
+Paleozoic
+paleomagnetism
+Eastern U.S.
+basin analysis
+paleogeography
+Mesozoic
+case studies
+paleolatitude
+Swiss Jura Mountains
+paleoenvironment
+iron sulfides
+magnetic susceptibility
+Pennsylvania
+sulfides
+clastic rocks
+SEM data
+18:Solid-earth geophysics
+06A:Sedimentary petrology
+LA  - English
+M1  - 1
+N1  - Copyright - GeoRef, Copyright 2014, American Geosciences Institute. Reference includes data from The Geological Society, London, London, United Kingdom
+Date revised - 2013-01-01
+Number of references - 119
+SuppNotes - Online First
+CODEN - GSLSBW
+SubjectsTermNotLitGenreText - Appalachians; apparent polar wandering; basin analysis; Cambrian; case studies; Central Europe; clastic rocks; depositional environment; Eastern U.S.; Europe; geochronology; iron oxides; iron sulfides; Jura Mountains; magnetic minerals; magnetic properties; magnetic susceptibility; magnetization; magnetostratigraphy; Mesozoic; mineral assemblages; mineral composition; Moenkopi Formation; North America; oxides; paleoenvironment; paleogeography; paleolatitude; paleomagnetism; Paleozoic; Pennsylvania; red beds; relative age; remagnetization; remanent magnetization; sedimentary rocks; SEM data; sulfides; Swiss Jura Mountains; Switzerland; Triassic; United States; Western U.S.
+PY  - 2012
+SN  - 0305-8719, 0305-8719
+SP  - 23-53
+ST  - The history of remagnetization of sedimentary rocks; deceptions, developments and discoveries
+T2  - Special Publication - Geological Society of London
+TI  - The history of remagnetization of sedimentary rocks; deceptions, developments and discoveries
+UR  - http://ezproxy.carleton.edu/login?url=http://search.proquest.com/docview/1442373167?accountid=9892
+http://UU5BM5KQ6Z.search.serialssolutions.com/?ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/ProQ%3Ageorefmodule&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.jtitle=Special+Publication+-+Geological+Society+of+London&rft.atitle=The+history+of+remagnetization+of+sedimentary+rocks%3B+deceptions%2C+developments+and+discoveries&rft.au=Van+der+Voo%2C+Rob%3BTorsvik%2C+Trond+H&rft.aulast=Van+der+Voo&rft.aufirst=Rob&rft.date=2012-06-27&rft.volume=371&rft.issue=1&rft.spage=23&rft.isbn=&rft.btitle=&rft.title=Special+Publication+-+Geological+Society+of+London&rft.issn=03058719&rft_id=info:doi/10.1144%2FSP371.2
+http://sp.lyellcollection.org/
+VL  - 371
+ID  - 70
+ER  - 
+
+
+TY  - JOUR
+AU  - Vickery, Ann M.
+AU  - Melosh, H. J.
+M1  - 2
+PY  - 1983
+SP  - 299-318
+ST  - The origin of SNC meteorites: An alternative to Mars
+T2  - Icarus
+TI  - The origin of SNC meteorites: An alternative to Mars
+VL  - 56
+ID  - 27
+ER  - 
+
+
+TY  - JOUR
+AU  - Vine, FJ
+AU  - Matthews, D
+PY  - 1963
+SP  - 947-949
+ST  - Magnetic anomalies over oceanic ridges
+T2  - Nature
+TI  - Magnetic anomalies over oceanic ridges
+VL  - 199
+ID  - 118
+ER  - 
+
+
+TY  - JOUR
+AU  - VINE, FJ
+AU  - MATTHEWS, DH
+PY  - 1963
+ST  - MAGNETIC ANOMALIES OVER OCEANIC RIDGES
+T2  - NATURE
+TI  - MAGNETIC ANOMALIES OVER OCEANIC RIDGES
+ID  - 136
+ER  - 
+
+
+TY  - JOUR
+AU  - Watson, GS
+M1  - 4
+PY  - 1956
+SN  - 2051-1965
+SP  - 160-161
+ST  - A test for randomness of directions
+T2  - Geophysical Supplements to the Monthly Notices of the Royal Astronomical Society
+TI  - A test for randomness of directions
+VL  - 7
+ID  - 112
+ER  - 
+
+
+TY  - JOUR
+AU  - Watson, Geoffrey S
+M1  - 1
+PY  - 1983
+SN  - 0020-3157
+SP  - 303-319
+ST  - Large sample theory for distributions on the hypersphere with rotational symmetries
+T2  - Annals of the Institute of Statistical Mathematics
+TI  - Large sample theory for distributions on the hypersphere with rotational symmetries
+VL  - 35
+ID  - 124
+ER  - 
+
+
+TY  - JOUR
+AU  - Weiss, BP
+AU  - Pedersen, S
+AU  - Garrick-Bethell, I
+AU  - Stewart, ST
+AU  - Louzada, KL
+AU  - Fuller, M
+AU  - Maloof, AC
+AU  - Swanson-Hysell, N
+PY  - 2010
+SP  - 1055
+ST  - Paleomagnetic tests for impact-generated fields at Lonar and other terrestrial craters
+T2  - AGU Fall Meeting Abstracts
+TI  - Paleomagnetic tests for impact-generated fields at Lonar and other terrestrial craters
+VL  - 1
+ID  - 103
+ER  - 
+
+
+TY  - JOUR
+AU  - Whittington, Alan G
+AU  - Hofmeister, Anne M
+AU  - Nabelek, Peter I
+L1  - internal-pdf://2044897763/Whittington_CrustThermalConductivity.pdf
+M1  - 7236
+PY  - 2009
+SN  - 0028-0836
+SP  - 319-321
+ST  - Temperature-dependent thermal diffusivity of the Earth’s crust and implications for magmatism
+T2  - Nature
+TI  - Temperature-dependent thermal diffusivity of the Earth’s crust and implications for magmatism
+VL  - 458
+ID  - 78
+ER  - 
+
+
+TY  - JOUR
+AU  - Wittmann, A.
+AU  - Kenkmann, T.
+AU  - Schmitt, R. T.
+AU  - Hecht, L.
+AU  - Stöffler, D.
+M1  - 6
+PY  - 2004
+SP  - 931-954
+ST  - Impact‐related dike breccia lithologies in the ICDP drill core Yaxcopoil‐1, Chicxulub impact structure, Mexico
+T2  - Meteoritics & Planetary Science
+TI  - Impact‐related dike breccia lithologies in the ICDP drill core Yaxcopoil‐1, Chicxulub impact structure, Mexico
+VL  - 39
+ID  - 31
+ER  - 
+
+
+TY  - JOUR
+AU  - Wünnemann, K
+AU  - Ivanov, BA
+M1  - 13
+PY  - 2003
+SN  - 0032-0633
+SP  - 831-845
+ST  - Numerical modelling of the impact crater depth–diameter dependence in an acoustically fluidized target
+T2  - Planetary and Space Science
+TI  - Numerical modelling of the impact crater depth–diameter dependence in an acoustically fluidized target
+VL  - 51
+ID  - 126
+ER  - 
+
+
+TY  - JOUR
+AU  - Zhu, Rixiang
+AU  - An, Zhisheng
+AU  - Potts, Richard
+AU  - Hoffman, Kenneth A
+M1  - 3
+PY  - 2003
+SN  - 0012-8252
+SP  - 341-359
+ST  - Magnetostratigraphic dating of early humans in China
+T2  - Earth-Science Reviews
+TI  - Magnetostratigraphic dating of early humans in China
+VL  - 61
+ID  - 120
+ER  - 
+
+
+TY  - JOUR
+AU  - Zijderveld, JDA
+PY  - 1967
+SP  - 254
+ST  - AC demagnetization of rocks: analysis of results
+T2  - Methods in paleomagnetism
+TI  - AC demagnetization of rocks: analysis of results
+VL  - 3
+ID  - 132
+ER  - 
+
+
