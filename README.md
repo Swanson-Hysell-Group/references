@@ -49,9 +49,16 @@ If you would like to try this approach, the general workflow is as follows:
     git checkout master # move back to master branch and sync current version
     git pull
     ```
+  3. Rebase: replay your changes on top of any recent changes to the master
+  
+    ```
+    git checkout <name-of-your-branch>
+    git rebase master
+    ```
   3. Sync your changes to GitHub
   
     ```
+    git checkout master
     git merge <name-of-your-branch>
     git push
     ```
