@@ -27,7 +27,7 @@ Adding references to the main .bib file within the BibTeX framework results in t
 The best way to avoid these conflicts requires a slightly more involved but overall less annoying method of syncing changes (new references) to the master .bib file. From what I can tell, the ```git rebase``` command (as opposed to the more common ```git merge```) allows for local changes to be "replayed" on top of the most recent changes to the master. This contrasts with ```git merge``` or ```git push```, which inevitably result in a conflict when confronted with a .bib file
 formatted for different users (even if the bibliography is exactly the same). 
 
-***Note: It's possible that ```git merge``` would also be sufficient for our purposes and I'm just overcomplicating things. Maybe the key is just to make changes within branches (see workflow below).***
+***Note: It's possible that*** `git merge` ***would also be sufficient for our purposes and I'm just overcomplicating things. Maybe the key is just to make changes within branches (see workflow below).***
 
 If you would like to try this approach, the general workflow is as follows:
 
@@ -35,20 +35,23 @@ If you would like to try this approach, the general workflow is as follows:
 * Once you're ready to sync those changes to the GitHub repository, navigate to the ```references``` directory on the command line.
 * If you enter ```git status```, you should get the notification that you have unstaged changes (nothing has been added/"staged" or committed yet).
 * Run the following commands:
-Move changes into a separate branch and commit them
-```
-git checkout -b <name-of-your-branch>
-git add -A
-git commit -a -m "your commit message"
-```
-Move back to master branch and sync the current version
-```
-git checkout master # move back to master branch and sync current version
-git pull
-```
-Sync your changes to GitHub
-```
-git merge <name-of-your-branch>
-git push
-```
 
+  1. Move changes into a separate branch and commit them
+  
+    ```
+    git checkout -b <name-of-your-branch>
+    git add -A
+    git commit -a -m "your commit message"
+    ```
+  2. Move back to master branch and sync the current version
+  
+    ```
+    git checkout master # move back to master branch and sync current version
+    git pull
+    ```
+  3. Sync your changes to GitHub
+  
+    ```
+    git merge <name-of-your-branch>
+    git push
+    ```
