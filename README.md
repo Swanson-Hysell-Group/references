@@ -2,7 +2,7 @@
 
 This repo contains the master .bib file used by the Swanson-Hysell research group at UC Berkeley (http://www.swanson-hysell.org).
 
-##Linking the bibliography with a paper in another repository
+## Linking the bibliography with a paper in another repository
 
 To use this file as the .bib file in a separate repository you can utilize Git's submodule functionality. Navigate to the repository with your paper in terminal and then create the submodule:
 
@@ -20,7 +20,7 @@ git submodule update --remote --merge
 
 Hat tip to Andrius Velykis (https://github.com/andriusvelykis) for his blog post on this subject: http://andrius.velykis.lt/2012/06/master-bibtex-file-git-submodules/
 
-##Avoiding conflicts
+## Avoiding conflicts
 
 Adding references to the main .bib file within the BibTeX framework results in the generation of extraneous text (outside of the simple appending of the new reference to the existing file). This means that collaborative use of this shared .bib file will inevitably result in conflicts that are not always straightforward to resolve manually.  
 
