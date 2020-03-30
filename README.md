@@ -1,6 +1,6 @@
 # Swanson-Hysell Group references
 
-This repo contains the master .bib file used by the Swanson-Hysell research group at UC Berkeley (http://www.swanson-hysell.org).
+This repository contains the master .bib file used by the Swanson-Hysell research group at UC Berkeley (http://www.swanson-hysell.org).
 
 ## Linking the bibliography with a paper in another repository
 
