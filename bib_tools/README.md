@@ -35,6 +35,10 @@ than the 18 MB of the full library, which matters when syncing to Overleaf.
 Pass `--keep-bdsk-files` to retain them when the export is destined for another
 reference manager rather than for LaTeX.
 
+Exports also drop the `month` and `url` fields, which AGU and similar journal
+styles render awkwardly (the month printed beside the year, and a raw
+`dx.doi.org` link duplicating the DOI). Pass `--keep-month-url` to retain them.
+
 ## Checking a subset against a manuscript
 
 The `cited-by` tags are maintained by hand and can drift from what a manuscript

@@ -5,7 +5,8 @@ This reproduces, as a script, what a BibDesk smart group on the ``Cited-By``
 field selects. Entries whose ``cited-by`` field contains the requested tag are
 written to a new ``.bib`` file, optionally with the BibDesk ``bdsk-file-N``
 base64 bookmark blobs stripped so that the result is small enough to sync
-comfortably to Overleaf.
+comfortably to Overleaf. The ``month`` and ``url`` fields are also dropped by
+default, as AGU and similar journal styles render them awkwardly.
 
 The workflow this supports is: tag entries in the master library with
 ``cited-by = {project_name}`` (a single entry can carry several
@@ -46,6 +47,14 @@ ENTRY_HEADER = re.compile(r"^@(\w+)\s*\{\s*([^,\s]+)\s*,", re.M)
 
 # Entry types that carry no citation key and must be skipped.
 NON_ENTRY_TYPES = {"comment", "preamble", "string"}
+
+# BibDesk base64 file bookmarks: large and meaningless outside BibDesk.
+BDSK_FILE_FIELDS = r"bdsk-file-\d+"
+
+# Fields dropped from exports because journal styles such as AGU's render them
+# unhelpfully: the month is printed alongside the year, and the url duplicates
+# the doi as a raw dx.doi.org link. The bdsk-url-N copies are ignored by BibTeX.
+UNWANTED_FIELDS = r"month|url"
 
 
 def locate_library(start_dir):
@@ -136,32 +145,35 @@ def get_tags(entry):
     return [tag.strip().lower() for tag in match.group(1).split(",") if tag.strip()]
 
 
-def strip_bdsk_files(entry, key):
-    """Remove ``bdsk-file-N`` fields, which hold large base64 file bookmarks.
+def strip_fields(entry, key, field_pattern):
+    """Remove the fields whose names match a regular expression.
 
-    The ``bdsk-url-N`` fields are kept, as they are short and useful. If the
-    removed field was the last one in the entry, the preceding field's trailing
-    comma is converted back into the entry's closing brace.
+    BibDesk writes each field on a single line, so fields are removed line by
+    line. If the removed field was the last one in the entry, the preceding
+    field's trailing comma is converted back into the entry's closing brace.
 
     Args:
         entry: Text of a single BibTeX entry.
         key: Citation key, used only in error messages.
+        field_pattern: Regular expression matching the complete field name,
+            e.g. ``bdsk-file-\\d+`` or ``month|url``; matched case-insensitively.
 
     Returns:
-        The entry text with ``bdsk-file-N`` fields removed.
+        The entry text with the matching fields removed.
 
     Raises:
-        ValueError: If the entry does not end in the expected ``}}``.
+        ValueError: If the entry does not end in a closing brace or, after the
+            final field was removed, a trailing comma.
     """
-    kept = [line for line in entry.split("\n")
-            if not re.match(r"^\s*bdsk-file-\d+ = ", line, re.I)]
+    field_line = re.compile(r"^\s*(?:%s)\s*=" % field_pattern, re.I)
+    kept = [line for line in entry.split("\n") if not field_line.match(line)]
     body = "\n".join(kept).rstrip()
-    if body.endswith("}}"):
-        return body
-    if not body.endswith(","):
+    if body.endswith(","):
+        return body[:-1] + "}"
+    if not body.endswith("}"):
         raise ValueError("unexpected entry structure for %s after stripping "
-                         "bdsk-file fields" % key)
-    return body[:-1] + "}"
+                         "fields matching %s" % (key, field_pattern))
+    return body
 
 
 def read_aux_citations(aux_path):
@@ -203,6 +215,10 @@ def main():
     parser.add_argument("--keep-bdsk-files", action="store_true",
                         help="retain the bdsk-file-N base64 bookmark blobs, "
                              "which makes the output much larger")
+    parser.add_argument("--keep-month-url", action="store_true",
+                        help="retain the month and url fields, which are "
+                             "otherwise dropped because AGU and similar "
+                             "journal styles render them awkwardly")
     parser.add_argument("--check-aux", metavar="AUX",
                         help="compare the tagged set against the citations in a "
                              "LaTeX .aux file and report any disagreement")
@@ -249,7 +265,9 @@ def main():
                        "by hand.\n\n" % (args.tag, os.path.basename(bib_path)))
         for key, entry in sorted(selected, key=lambda pair: pair[0].lower()):
             if not args.keep_bdsk_files:
-                entry = strip_bdsk_files(entry, key)
+                entry = strip_fields(entry, key, BDSK_FILE_FIELDS)
+            if not args.keep_month_url:
+                entry = strip_fields(entry, key, UNWANTED_FIELDS)
             out_file.write(entry.rstrip() + "\n\n")
 
     print("Wrote %d entries tagged '%s' from %s to %s (%.0f KB)."
